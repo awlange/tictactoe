@@ -7,8 +7,8 @@ import android.content.res.Resources;
 import android.util.AttributeSet;
 
 public class BoardView extends TileView {
-	
-	private static Logger log = Logger.getLogger("BoardView.log");
+
+    private static Logger log = Logger.getLogger("BoardView.log");
 
     /**
      * Labels for the drawables that will be loaded into the TileView class
